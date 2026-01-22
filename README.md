@@ -1,32 +1,31 @@
 # 📊 EXPEDIENTE DE GASTOS - SERVICIOS DE ALIMENTACIÓN
 
-## 🎯 Propósito
-Sistema de control y seguimiento de gastos para servicios de alimentación, organizado por fechas con análisis detallado de proveedores, productos y balances.
+## 🎯 Descripción
+Sistema de control y seguimiento de gastos para servicios de alimentación, organizado por fechas con desglose detallado de productos y proveedores.
 
 ## 📁 Archivos del Sistema
 
-### 📄 `expediente-gastos.md`
-- **Expediente principal** con formato elegante para presentaciones
-- Resumen ejecutivo y desglose detallado por fecha
-- Ideal para reportes y presentaciones profesionales
+### 📄 [expediente-gastos.md](expediente-gastos.md)
+- **Formato:** Markdown elegante para presentaciones
+- **Uso:** Visualización completa, reportes, presentaciones
+- **Exportación:** PDF, HTML, impresión
 
-### 📊 `gastos-detalle.csv` 
-- **Datos estructurados** listos para Excel/Google Sheets
-- Análisis, gráficos y cálculos avanzados
-- Exportación e importación fácil
-
-## 🚀 Cómo Usar
-
-1. **Para Presentar:** Abre `expediente-gastos.md` 
-2. **Para Analizar:** Descarga `gastos-detalle.csv` y ábrelo en Excel
-3. **Para Actualizar:** Agrega nuevas fechas siguiendo el formato establecido
+### 📊 [gastos-detalle.csv](gastos-detalle.csv)  
+- **Formato:** CSV para análisis en Excel
+- **Uso:** Análisis de datos, gráficos, fórmulas
+- **Compatibilidad:** Excel, Google Sheets, LibreOffice
 
 ## 📈 Resumen Actual
 - **Período:** Enero 2026
-- **Días registrados:** 1
-- **Total ingresos:** S/ 3,000.00
-- **Total gastos:** S/ 3,044.70
+- **Total Ingresos:** S/ 3,000.00
+- **Total Gastos:** S/ 3,044.70
 - **Balance:** -S/ 44.70
 
----
-*Sistema creado para control profesional de gastos en servicios de alimentación*
+## 🔄 Actualización
+Para agregar nuevas fechas:
+1. Editar `expediente-gastos.md` siguiendo el formato existente
+2. Agregar filas al `gastos-detalle.csv`
+3. Actualizar totales en este README
+
+## 📞 Contacto
+Creado para control de gastos de servicios de alimentación - Enero 2026
