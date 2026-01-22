@@ -1,4 +1,4 @@
-Fecha,Tipo,Categoría,Proveedor,Producto,Cantidad,Unidad,Precio Unitario,Subtotal Item,Op. Gravada,IGV,Total a Contar,Notas
+Fecha,Tipo,Categoría,Proveedor,Producto,Cantidad,Unidad,Precio_Unitario,Subtotal_Item,Op._Gravada,IGV,Total_a_Contar,Notas
 2026-01-05,Ingreso,Depósitos,Banco,Depósito bancario,1,und,2000.0,2000.0,,,2000.0,
 2026-01-05,Ingreso,Efectivo,Caja,Efectivo en caja,1,und,1000.0,1000.0,,,1000.0,
 2026-01-05,Gasto,Abarrotes,Campo Grande,Vinagre Alpesa Blanco 5lt,1,und,17.0,17.0,730.58,133.12,872.7,Primera compra
@@ -73,6 +73,6 @@ Fecha,Tipo,Categoría,Proveedor,Producto,Cantidad,Unidad,Precio Unitario,Subtota
 2026-01-05,Gasto,Condimentos,Productos Sonia,Canela y clavo,1,und,7.0,7.0,,,,detalle
 2026-01-05,Gasto,Condimentos,Productos Sonia,Canela y clavo (pequeño),1,und,1.0,1.0,,,,detalle
 2026-01-05,Gasto,Cereales,Productos Sonia,Quinua,1,und,35.5,35.5,,,,detalle
-2026-01-05,Gasto,Verduras,Verduras Margarita,"Camote, lechuga, brócoli",1,mixto,35.0,35.0,,,35.0,
+2026-01-05,Gasto,Verduras,Verduras Margarita,Camote; lechuga; brócoli,1,mixto,35.0,35.0,,,35.0,
 2026-01-05,Gasto,Cereales,Varios,Hojuelas e infusiones,1,und,34.0,34.0,,,34.0,
 2026-01-05,Gasto,Condimentos,Varios,Orégano,1,und,4.0,4.0,,,4.0,
