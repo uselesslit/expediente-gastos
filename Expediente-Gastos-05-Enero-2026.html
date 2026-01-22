@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expediente de Gastos - 5 Enero 2026</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .header {
+            text-align: center;
+            background-color: #2c3e50;
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        .summary {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .category-section {
+            background-color: white;
+            margin-bottom: 25px;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .category-header {
+            background-color: #3498db;
+            color: white;
+            padding: 15px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #ecf0f1;
+            font-weight: bold;
+        }
+        tr:hover {
+            background-color: #f8f9fa;
+        }
+        .total-row {
+            background-color: #e8f5e8;
+            font-weight: bold;
+        }
+        .grand-total {
+            background-color: #2c3e50;
+            color: white;
+            font-size: 18px;
+            text-align: center;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 30px;
+        }
+        .amount {
+            text-align: right;
+            font-weight: bold;
+        }
+        .deficit {
+            color: #e74c3c;
+            font-weight: bold;
+        }
+        .positive {
+            color: #27ae60;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📋 EXPEDIENTE DE GASTOS</h1>
+        <h2>Servicios de Alimentación</h2>
+        <p><strong>Fecha:</strong> Lunes 5 de Enero de 2026</p>
+    </div>
+
+    <div class="summary">
+        <h3>📊 RESUMEN FINANCIERO</h3>
+        <table>
+            <tr>
+                <td><strong>💰 Total Ingresos:</strong></td>
+                <td class="amount positive">S/ 3,000.00</td>
+            </tr>
+            <tr>
+                <td><strong>💸 Total Gastos:</strong></td>
+                <td class="amount">S/ 3,044.70</td>
+            </tr>
+            <tr class="total-row">
+                <td><strong>⚖️ Balance del Día:</strong></td>
+                <td class="amount deficit">-S/ 44.70</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="category-section">
+        <div class="category-header">🥫 ABARROTES - CAMPO GRANDE (S/ 872.70)</div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Producto</th>
+                    <th>Cantidad</th>
+                    <th>Precio Unit.</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>Vinagre alpesa blanco 5lt</td><td>1 und</td><td>S/ 17.00</td><td class="amount">S/ 17.00</td></tr>
+                <tr><td>Vinagre tinto florida 1lt</td><td>2 und</td><td>S/ 5.00</td><td class="amount">S/ 10.00</td></tr>
+                <tr><td>Aceite vicentina 20l balde</td><td>1 und</td><td>S/ 136.00</td><td class="amount">S/ 136.00</td></tr>
+                <tr><td>Papel toalla rendpel pro 120mt</td><td>1 und</td><td>S/ 12.00</td><td class="amount">S/ 12.00</td></tr>
+                <tr><td>Durazno en mitades vallenorte 820gr</td><td>1 cja</td><td>S/ 50.00</td><td class="amount">S/ 50.00</td></tr>
+                <tr><td>Aceite belini 900ml</td><td>1 cja</td><td>S/ 72.00</td><td class="amount">S/ 72.00</td></tr>
+                <tr><td>Azúcar rubia cartavio 50kg</td><td>1 sac</td><td>S/ 144.00</td><td class="amount">S/ 144.00</td></tr>
+                <tr><td>Fideo nicolini 450gr spaguetti</td><td>3 pqt</td><td>S/ 42.00</td><td class="amount">S/ 126.00</td></tr>
+                <tr><td>Fideo nicolini 250gr tornillo</td><td>1 pqt</td><td>S/ 21.00</td><td class="amount">S/ 21.00</td></tr>
+                <tr><td>Sal flor marina</td><td>1 sac</td><td>S/ 16.00</td><td class="amount">S/ 16.00</td></tr>
+                <tr><td>Gelatina kaylua 200gr</td><td>1 pqt</td><td>S/ 55.00</td><td class="amount">S/ 55.00</td></tr>
+                <tr><td>Flan umsha 100gr</td><td>5 und</td><td>S/ 2.20</td><td class="amount">S/ 11.00</td></tr>
+                <tr><td>Pudin umsha 100gr</td><td>5 und</td><td>S/ 2.40</td><td class="amount">S/ 12.00</td></tr>
+                <tr><td>Lavavajilla lesly 1kg</td><td>3 und</td><td>S/ 5.90</td><td class="amount">S/ 17.70</td></tr>
+                <tr><td>Azúcar rubia casagrande 50kg</td><td>1 sac</td><td>S/ 150.00</td><td class="amount">S/ 150.00</td></tr>
+                <tr><td>Galleta wafer costa 105gr</td><td>1 und</td><td>S/ 2.00</td><td class="amount">S/ 2.00</td></tr>
+                <tr class="total-row">
+                    <td colspan="3"><strong>Subtotal (IGV incluido)</strong></td>
+                    <td class="amount"><strong>S/ 872.70</strong></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="category-section">
+        <div class="category-header">🥩 CARNES Y PROTEÍNAS (S/ 782.30)</div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Proveedor</th>
+                    <th>Producto</th>
+                    <th>Cantidad</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>Carne</td><td>Carne</td><td>6 kilos</td><td class="amount">S/ 199.00</td></tr>
+                <tr><td>Grupo Granja Andina</td><td>Huevos</td><td>6 planchas x30</td><td class="amount">S/ 46.02</td></tr>
+                <tr><td>Grupo Granja Andina</td><td>Alitas de pollo fresco</td><td>1.0134 kg</td><td class="amount">S/ 15.10</td></tr>
+                <tr><td>Grupo Granja Andina</td><td>Pierna c/encuentro</td><td>20.7030 kg</td><td class="amount">S/ 209.10</td></tr>
+                <tr><td>Grupo Granja Andina</td><td>Pechuga de pollo fresco</td><td>20.3806 kg</td><td class="amount">S/ 273.10</td></tr>
+                <tr><td>Granja Andina S.A.C</td><td>Jamonada con pollo 200gr</td><td>10 und</td><td class="amount">S/ 40.00</td></tr>
+                <tr class="total-row">
+                    <td colspan="3"><strong>Subtotal Carnes</strong></td>
+                    <td class="amount"><strong>S/ 782.30</strong></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="category-section">
+        <div class="category-header">🥕 VERDURAS Y FRUTAS (S/ 651.50)</div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Producto</th>
+                    <th>Cantidad</th>
+                    <th>Precio</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>Zanahoria</td><td>2 arrobas</td><td>S/ 50.00</td><td class="amount">S/ 100.00</td></tr>
+                <tr><td>Apio</td><td>1/4 kg</td><td>S/ 6.00</td><td class="amount">S/ 1.50</td></tr>
+                <tr><td>Poro</td><td>1/4 kg</td><td>S/ 7.00</td><td class="amount">S/ 1.75</td></tr>
+                <tr><td>Zapallo</td><td>3/4 kg</td><td>S/ 9.00</td><td class="amount">S/ 6.75</td></tr>
+                <tr><td>Ajo pelado</td><td>1/4 kg</td><td>S/ 14.00</td><td class="amount">S/ 3.50</td></tr>
+                <tr><td>Cebolla</td><td>2 arrobas</td><td>S/ 40.00</td><td class="amount">S/ 80.00</td></tr>
+                <tr><td>Haba</td><td>1/4 arroba</td><td>S/ 7.50</td><td class="amount">S/ 1.88</td></tr>
+                <tr><td>Haba</td><td>1/4 arroba</td><td>S/ 12.00</td><td class="amount">S/ 3.00</td></tr>
+                <tr><td>Limón</td><td>1 ciento</td><td>S/ 18.00</td><td class="amount">S/ 18.00</td></tr>
+                <tr><td>Maracuyá</td><td>4 kg</td><td>S/ 32.00</td><td class="amount">S/ 128.00</td></tr>
+                <tr><td>Veterraga</td><td>1 arroba</td><td>S/ 35.00</td><td class="amount">S/ 35.00</td></tr>
+                <tr><td>Papa (antes del saco)</td><td>-</td><td>-</td><td class="amount">S/ 25.00</td></tr>
+                <tr><td>Papa</td><td>1 sac</td><td>S/ 220.00</td><td class="amount">S/ 220.00</td></tr>
+                <tr><td>Durazno entero</td><td>3 kg</td><td>S/ 26.00</td><td class="amount">S/ 78.00</td></tr>
+                <tr><td>Fresa</td><td>3 kg</td><td>S/ 21.00</td><td class="amount">S/ 63.00</td></tr>
+                <tr><td>Plátano</td><td>1 ciento</td><td>S/ 24.00</td><td class="amount">S/ 24.00</td></tr>
+                <tr><td>Naranja</td><td>1 ciento</td><td>S/ 35.00</td><td class="amount">S/ 35.00</td></tr>
+                <tr><td>Papaya</td><td>6 und</td><td>S/ 51.00</td><td class="amount">S/ 306.00</td></tr>
+                <tr><td>Sandía</td><td>1 und</td><td>S/ 23.00</td><td class="amount">S/ 23.00</td></tr>
+                <tr><td>Camote, lechuga, brócoli</td><td>-</td><td>-</td><td class="amount">S/ 35.00</td></tr>
+                <tr class="total-row">
+                    <td colspan="3"><strong>Subtotal Verduras y Frutas</strong></td>
+                    <td class="amount"><strong>S/ 651.50</strong></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="category-section">
+        <div class="category-header">🍞 PANADERÍA Y LÁCTEOS (S/ 130.50)</div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Producto</th>
+                    <th>Cantidad</th>
+                    <th>Precio Unit.</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>Pan integral</td><td>3 pqt</td><td>S/ 7.00</td><td class="amount">S/ 21.00</td></tr>
+                <tr><td>Pan blanco</td><td>3 pqt</td><td>S/ 6.50</td><td class="amount">S/ 19.50</td></tr>
+                <tr><td>Pan valencia</td><td>100 und</td><td>S/ 20.00</td><td class="amount">S/ 20.00</td></tr>
+                <tr><td>Queso "a"</td><td>2 und</td><td>S/ 20.00</td><td class="amount">S/ 40.00</td></tr>
+                <tr><td>Queso "b"</td><td>2 und</td><td>S/ 15.00</td><td class="amount">S/ 30.00</td></tr>
+                <tr class="total-row">
+                    <td colspan="3"><strong>Subtotal Panadería y Lácteos</strong></td>
+                    <td class="amount"><strong>S/ 130.50</strong></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="category-section">
+        <div class="category-header">🥪 OTROS PRODUCTOS (S/ 608.70)</div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Proveedor</th>
+                    <th>Producto</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>Campo Grande 2da compra</td><td>Galletas, bebidas, té</td><td class="amount">S/ 87.40</td></tr>
+                <tr><td>Tiendas Mass</td><td>Galletas y yogurt</td><td class="amount">S/ 47.80</td></tr>
+                <tr><td>Salva Group</td><td>Mermelada, servilletas, film</td><td class="amount">S/ 40.90</td></tr>
+                <tr><td>Productos Sonia</td><td>Frutos secos y especias</td><td class="amount">S/ 261.00</td></tr>
+                <tr><td>Otros</td><td>Granola, quinua pop</td><td class="amount">S/ 20.00</td></tr>
+                <tr><td>Comidas</td><td>Almuerzo personal</td><td class="amount">S/ 72.00</td></tr>
+                <tr><td>Especias</td><td>Pimienta suelta</td><td class="amount">S/ 2.40</td></tr>
+                <tr><td>Varios</td><td>Hojuelas, infusiones, orégano</td><td class="amount">S/ 38.00</td></tr>
+                <tr class="total-row">
+                    <td colspan="2"><strong>Subtotal Otros</strong></td>
+                    <td class="amount"><strong>S/ 608.70</strong></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="grand-total">
+        <h3>💰 TOTAL GENERAL DE GASTOS: S/ 3,044.70</h3>
+        <p><strong>Balance:</strong> <span class="deficit">-S/ 44.70 (Déficit)</span></p>
+    </div>
+
+    <div style="text-align: center; margin-top: 30px; color: #7f8c8d; font-style: italic;">
+        <p>📄 Expediente generado el 22 de Enero de 2026</p>
+        <p>🏢 Sistema de Control de Gastos - Servicios de Alimentación</p>
+    </div>
+
+</body>
+</html>
