@@ -1,0 +1,78 @@
+Fecha,Tipo,Categoría,Proveedor,Producto,Cantidad,Unidad,Precio_Unitario,Subtotal_Item,Op._Gravada,IGV,Total_a_Contar,Notas
+2026-01-05,Ingreso,Depósitos,Banco,Depósito bancario,1,und,2000.0,2000.0,,,2000.0,
+2026-01-05,Ingreso,Efectivo,Caja,Efectivo en caja,1,und,1000.0,1000.0,,,1000.0,
+2026-01-05,Gasto,Abarrotes,Campo Grande,Vinagre Alpesa Blanco 5lt,1,und,17.0,17.0,730.58,133.12,872.7,Primera compra
+2026-01-05,Gasto,Abarrotes,Campo Grande,Vinagre Tinto Florida 1lt,2,und,5.0,10.0,,,,Primera compra - detalle
+2026-01-05,Gasto,Abarrotes,Campo Grande,Aceite Vicentina 20L balde,1,und,136.0,136.0,,,,Primera compra - detalle
+2026-01-05,Gasto,Abarrotes,Campo Grande,Papel toalla Rendpel Pro 120mt,1,und,12.0,12.0,,,,Primera compra - detalle
+2026-01-05,Gasto,Abarrotes,Campo Grande,Durazno en mitades Vallenorte 820gr,6,cja,8.33,50.0,,,,Primera compra - detalle
+2026-01-05,Gasto,Abarrotes,Campo Grande,Aceite Belini 900ml,12,cja,6.0,72.0,,,,Primera compra - detalle
+2026-01-05,Gasto,Abarrotes,Campo Grande,Azúcar rubia Cartavio 50kg,1,sac,144.0,144.0,,,,Primera compra - detalle
+2026-01-05,Gasto,Abarrotes,Campo Grande,Fideo Nicolini 450gr spaguetti,60,und (3 pqt x20),2.1,126.0,,,,Primera compra - detalle
+2026-01-05,Gasto,Abarrotes,Campo Grande,Fideo Nicolini 250gr tornillo,20,und (1 pqt x20),1.05,21.0,,,,Primera compra - detalle
+2026-01-05,Gasto,Abarrotes,Campo Grande,Sal Flor Marina,24,und (1 sac x24),0.67,16.0,,,,Primera compra - detalle
+2026-01-05,Gasto,Abarrotes,Campo Grande,Gelatina Kaylua 200gr,20,und (1 pqt x20),2.75,55.0,,,,Primera compra - detalle
+2026-01-05,Gasto,Abarrotes,Campo Grande,Flan Umsha 100gr,5,und,2.2,11.0,,,,Primera compra - detalle
+2026-01-05,Gasto,Abarrotes,Campo Grande,Pudín Umsha 100gr,5,und,2.4,12.0,,,,Primera compra - detalle
+2026-01-05,Gasto,Limpieza,Campo Grande,Lavavajilla Lesly 1kg,3,und,5.9,17.7,,,,Primera compra - detalle
+2026-01-05,Gasto,Abarrotes,Campo Grande,Azúcar rubia Casagrande 50kg,1,sac,150.0,150.0,,,,Primera compra - detalle
+2026-01-05,Gasto,Abarrotes,Campo Grande,Galleta wafer Costa 105gr,1,und,2.0,2.0,,,,Primera compra - detalle
+2026-01-05,Gasto,Carnes,Carnes,Carne (varios cortes),6,kg,33.17,199.0,,,199.0,
+2026-01-05,Gasto,Huevos y Pollo,Grupo Granja Andina S.A,Planchas x30 huevos,6,und,7.67,46.02,460.42,82.88,543.3,
+2026-01-05,Gasto,Huevos y Pollo,Grupo Granja Andina S.A,Alitas de pollo fresco,1.0134,kg,15.1,15.3,,,,detalle
+2026-01-05,Gasto,Huevos y Pollo,Grupo Granja Andina S.A,Pierna c/encuentro,20.703,kg,10.1,209.1,,,,detalle
+2026-01-05,Gasto,Huevos y Pollo,Grupo Granja Andina S.A,Pechuga de pollo fresco,20.3806,kg,13.4,273.1,,,,detalle
+2026-01-05,Gasto,Verduras,Verduras,Zanahoria,2,arrobas,25.0,50.0,,,230.5,Compra mercado
+2026-01-05,Gasto,Verduras,Verduras,Apio,0.25,kg,24.0,6.0,,,,Compra mercado - detalle
+2026-01-05,Gasto,Verduras,Verduras,Poro,0.25,kg,28.0,7.0,,,,Compra mercado - detalle
+2026-01-05,Gasto,Verduras,Verduras,Zapallo,0.75,kg,12.0,9.0,,,,Compra mercado - detalle
+2026-01-05,Gasto,Verduras,Verduras,Ajo pelado,0.25,kg,56.0,14.0,,,,Compra mercado - detalle
+2026-01-05,Gasto,Verduras,Verduras,Cebolla,2,arrobas,20.0,40.0,,,,Compra mercado - detalle
+2026-01-05,Gasto,Verduras,Verduras,Haba,0.25,arroba,30.0,7.5,,,,Compra mercado - detalle
+2026-01-05,Gasto,Verduras,Verduras,Haba (segunda compra),0.25,arroba,48.0,12.0,,,,Compra mercado - detalle
+2026-01-05,Gasto,Frutas,Verduras,Limón,1,ciento,18.0,18.0,,,,Compra mercado - detalle
+2026-01-05,Gasto,Frutas,Verduras,Maracuyá,4,kg,8.0,32.0,,,,Compra mercado - detalle
+2026-01-05,Gasto,Verduras,Verduras,Veterraga,1,arroba,35.0,35.0,,,,Compra mercado - detalle
+2026-01-05,Gasto,Abarrotes,Tiendas Mass,Galleta San Jorge Soda,21,und (3 pqt x7),1.81,11.4,40.51,7.29,47.8,
+2026-01-05,Gasto,Lácteos,Tiendas Mass,Yogurt fresa 1.6kg,4,und,9.1,36.4,,,,detalle
+2026-01-05,Gasto,Abarrotes,Salva Group S.A.C,Fanny mermelada,1,und,11.5,11.5,34.66,6.24,40.9,
+2026-01-05,Gasto,Limpieza,Salva Group S.A.C,Servilleta Elite ultra doblada en 4/100,3,und,4.5,13.5,,,,detalle
+2026-01-05,Gasto,Limpieza,Salva Group S.A.C,Cinta film número 12,1,und,15.9,15.9,,,,detalle
+2026-01-05,Gasto,Embutidos,Granja Andina S.A.C,Jamonada con pollo 200gr,10,und,4.0,40.0,33.9,6.1,40.0,
+2026-01-05,Gasto,Panadería,Panadería,Pan integral,3,pqt,7.0,21.0,,,21.0,
+2026-01-05,Gasto,Panadería,Panadería,Pan blanco,3,pqt,6.5,19.5,,,19.5,
+2026-01-05,Gasto,Panadería,Panadería,Pan valencia,100,und,0.2,20.0,,,20.0,
+2026-01-05,Gasto,Gastos Operativos,Personal,Almuerzo personal,1,servicio,72.0,72.0,,,72.0,
+2026-01-05,Gasto,Condimentos,Varios,Pimienta suelta,1,und,2.4,2.4,,,2.4,
+2026-01-05,Gasto,Frutas,Frutas,Durazno entero,3,kg,8.67,26.0,,,26.0,
+2026-01-05,Gasto,Frutas,Frutas,Fresa,3,kg,7.0,21.0,,,21.0,
+2026-01-05,Gasto,Lácteos,Lácteos,Queso A,2,und,20.0,40.0,,,40.0,
+2026-01-05,Gasto,Lácteos,Lácteos,Queso B,2,und,15.0,30.0,,,30.0,
+2026-01-05,Gasto,Verduras,Verduras,Saco papa,1,sac,220.0,220.0,,,220.0,
+2026-01-05,Gasto,Verduras,Verduras,Papa (antes del saco),1,und,25.0,25.0,,,25.0,
+2026-01-05,Gasto,Frutas,Frutas,Plátano,1,ciento,24.0,24.0,,,24.0,
+2026-01-05,Gasto,Frutas,Frutas,Naranja,1,ciento,35.0,35.0,,,35.0,
+2026-01-05,Gasto,Frutas,Frutas,Papaya,6,und,8.5,51.0,,,51.0,
+2026-01-05,Gasto,Frutas,Frutas,Sandía,1,und,23.0,23.0,,,23.0,
+2026-01-05,Gasto,Cereales,Cereales,Granola a granel,1,und,10.0,10.0,,,10.0,
+2026-01-05,Gasto,Cereales,Cereales,Quinua pop a granel,1,und,10.0,10.0,,,10.0,
+2026-01-05,Gasto,Abarrotes,Campo Grande,Galleta San Jorge vainilla 250gr,10,cja,3.1,31.0,74.07,13.33,87.4,Segunda compra
+2026-01-05,Gasto,Bebidas,Campo Grande,Tampico refresco citrus punch 3lt,4,pqt,6.5,26.0,,,,Segunda compra - detalle
+2026-01-05,Gasto,Limpieza,Campo Grande,Servilletas Tess cortada 400 und,1,pak,3.7,3.7,,,,Segunda compra - detalle
+2026-01-05,Gasto,Infusiones,Campo Grande,Mc Colins manzanilla 1gr,100,und (1 pak x100),0.09,9.0,,,,Segunda compra - detalle
+2026-01-05,Gasto,Infusiones,Campo Grande,Mc Colins té canela y clavo 1gr,100,und (1 pak x100),0.09,9.0,,,,Segunda compra - detalle
+2026-01-05,Gasto,Bebidas,Campo Grande,Cocoa Winters 140gr,1,und,8.7,8.7,,,,Segunda compra - detalle
+2026-01-05,Gasto,Frutos Secos,Productos Sonia,Almendra,0.5,kg,240.0,120.0,,,261.0,
+2026-01-05,Gasto,Frutos Secos,Productos Sonia,Pecana,0.5,kg,60.0,30.0,,,,detalle
+2026-01-05,Gasto,Frutos Secos,Productos Sonia,Nuez,0.5,kg,60.0,30.0,,,,detalle
+2026-01-05,Gasto,Frutos Secos,Productos Sonia,Castaña,0.5,kg,80.0,40.0,,,,detalle
+2026-01-05,Gasto,Frutos Secos,Productos Sonia,Pistacho,0.5,kg,60.0,30.0,,,,detalle
+2026-01-05,Gasto,Abarrotes,Productos Sonia,Wantán,3,und,4.5,13.5,,,,detalle
+2026-01-05,Gasto,Abarrotes,Productos Sonia,Wantán 200gr,1,und,10.0,10.0,,,,detalle
+2026-01-05,Gasto,Abarrotes,Productos Sonia,Aceituna verde y negra,2,kg,22.0,44.0,,,,detalle
+2026-01-05,Gasto,Condimentos,Productos Sonia,Canela y clavo,1,und,7.0,7.0,,,,detalle
+2026-01-05,Gasto,Condimentos,Productos Sonia,Canela y clavo (pequeño),1,und,1.0,1.0,,,,detalle
+2026-01-05,Gasto,Cereales,Productos Sonia,Quinua,1,und,35.5,35.5,,,,detalle
+2026-01-05,Gasto,Verduras,Verduras Margarita,Camote; lechuga; brócoli,1,mixto,35.0,35.0,,,35.0,
+2026-01-05,Gasto,Cereales,Varios,Hojuelas e infusiones,1,und,34.0,34.0,,,34.0,
+2026-01-05,Gasto,Condimentos,Varios,Orégano,1,und,4.0,4.0,,,4.0,

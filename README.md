@@ -18,6 +18,7 @@
 - Descarga `gastos-detalle.csv`
 - Abre en Excel/Google Sheets
 - Crea gráficos y tablas dinámicas
+- **Importante:** Para calcular totales, suma la columna `Total_a_Contar` (evita duplicación de facturas con múltiples items)
 
 ### 🔄 Para Actualizar
 - Edita directamente en GitHub
@@ -28,8 +29,17 @@
 
 **Fecha:** Lunes 05 Enero 2026
 - **Ingresos:** S/ 3,000.00
-- **Gastos:** S/ 3,044.70  
-- **Balance:** -S/ 44.70
+- **Gastos:** S/ 3,045.50  
+- **Balance:** -S/ 45.50
+
+## 📝 Nota sobre el CSV
+
+El archivo CSV está estructurado para análisis detallado:
+- Cada fila representa un producto individual
+- Para facturas con múltiples items, solo la primera fila tiene `Total_a_Contar`
+- Esto evita duplicación al sumar totales
+- Para análisis por item, usa `Subtotal_Item`
+- Para totales generales, suma `Total_a_Contar`
 
 ---
 *Sistema creado para control eficiente de gastos de servicios de alimentación*
