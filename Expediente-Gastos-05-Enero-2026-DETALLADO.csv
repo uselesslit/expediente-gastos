@@ -1,0 +1,77 @@
+Fecha,Hora,Categoría,Proveedor,Producto,Unidad,Cantidad,Precio_Unitario,Subtotal,IGV,Total,Observaciones
+2026-01-05,08:00,ABARROTES,Campo Grande,vinagre alpesa blanco 5lt,und,1,S/17.00,S/17.00,S/3.06,S/20.06,IGV incluido
+2026-01-05,08:00,ABARROTES,Campo Grande,vinagre tinto florida 1lt,und,2,S/5.00,S/10.00,S/1.80,S/11.80,IGV incluido
+2026-01-05,08:00,ABARROTES,Campo Grande,aceite vicentina 20l balde,und,1,S/136.00,S/136.00,S/24.48,S/160.48,IGV incluido
+2026-01-05,08:00,ABARROTES,Campo Grande,papel toalla rendpel pro 120mt,und,1,S/12.00,S/12.00,S/2.16,S/14.16,IGV incluido
+2026-01-05,08:00,ABARROTES,Campo Grande,durazno en mitades vallenorte 820gr,cja,1,S/50.00,S/50.00,S/9.00,S/59.00,IGV incluido
+2026-01-05,08:00,ABARROTES,Campo Grande,aceite belini 900ml,cja,1,S/72.00,S/72.00,S/12.96,S/84.96,IGV incluido
+2026-01-05,08:00,ABARROTES,Campo Grande,azúcar rubia cartavio 50kg,sac,1,S/144.00,S/144.00,S/25.92,S/169.92,IGV incluido
+2026-01-05,08:00,ABARROTES,Campo Grande,fideo nicolini 450gr spaguetti,pqt,3,S/42.00,S/126.00,S/22.68,S/148.68,IGV incluido
+2026-01-05,08:00,ABARROTES,Campo Grande,fideo nicolini 250gr tornillo,pqt,1,S/21.00,S/21.00,S/3.78,S/24.78,IGV incluido
+2026-01-05,08:00,ABARROTES,Campo Grande,sal flor marina,sac,1,S/16.00,S/16.00,S/2.88,S/18.88,IGV incluido
+2026-01-05,08:00,ABARROTES,Campo Grande,gelatina kaylua 200gr,pqt,1,S/55.00,S/55.00,S/9.90,S/64.90,IGV incluido
+2026-01-05,08:00,ABARROTES,Campo Grande,flan umsha 100gr,und,5,S/2.20,S/11.00,S/1.98,S/12.98,IGV incluido
+2026-01-05,08:00,ABARROTES,Campo Grande,pudin umsha 100gr,und,5,S/2.40,S/12.00,S/2.16,S/14.16,IGV incluido
+2026-01-05,08:00,ABARROTES,Campo Grande,lavavajilla lesly 1kg,und,3,S/5.90,S/17.70,S/3.19,S/20.89,IGV incluido
+2026-01-05,08:00,ABARROTES,Campo Grande,azúcar rubia casagrande 50kg,sac,1,S/150.00,S/150.00,S/27.00,S/177.00,IGV incluido
+2026-01-05,08:00,ABARROTES,Campo Grande,galleta wafer costa 105gr,und,1,S/2.00,S/2.00,S/0.36,S/2.36,IGV incluido
+2026-01-05,08:30,ABARROTES,Campo Grande 2da compra,galleta san jorge vainilla 250gr,cja,1,S/31.00,S/31.00,S/5.58,S/36.58,IGV incluido
+2026-01-05,08:30,ABARROTES,Campo Grande 2da compra,tampico refresco citrus punch 3lt,pqt,1,S/26.00,S/26.00,S/4.68,S/30.68,IGV incluido
+2026-01-05,08:30,ABARROTES,Campo Grande 2da compra,servilletas tess cortada 400 und,pak,1,S/3.70,S/3.70,S/0.67,S/4.37,IGV incluido
+2026-01-05,08:30,ABARROTES,Campo Grande 2da compra,mc colins manzanilla 1gr,pak,1,S/9.00,S/9.00,S/1.62,S/10.62,IGV incluido
+2026-01-05,08:30,ABARROTES,Campo Grande 2da compra,mc colins té canela y clavo 1gr,pak,1,S/9.00,S/9.00,S/1.62,S/10.62,IGV incluido
+2026-01-05,08:30,ABARROTES,Campo Grande 2da compra,cocoa winters 140gr,und,1,S/8.70,S/8.70,S/1.57,S/10.27,IGV incluido
+2026-01-05,09:00,ABARROTES,Tiendas Mass,galleta san jorge soda,pqt,3,S/3.80,S/11.40,S/2.05,S/13.45,IGV incluido
+2026-01-05,09:00,ABARROTES,Tiendas Mass,yogurt fresa 1.6kg,und,4,S/9.10,S/36.40,S/6.55,S/42.95,IGV incluido
+2026-01-05,09:00,ABARROTES,Salva Group,fanny mermelada,und,1,S/11.50,S/11.50,S/2.07,S/13.57,IGV incluido
+2026-01-05,09:00,ABARROTES,Salva Group,servilleta elite ultra doblada en 4/100,und,3,S/4.50,S/13.50,S/2.43,S/15.93,IGV incluido
+2026-01-05,09:00,ABARROTES,Salva Group,cinta film número 12,und,1,S/15.90,S/15.90,S/2.86,S/18.76,IGV incluido
+2026-01-05,09:30,ABARROTES,Productos Sonia,almendra,kg,0.5,S/120.00,S/60.00,S/10.80,S/70.80,IGV incluido
+2026-01-05,09:30,ABARROTES,Productos Sonia,pecana,kg,0.5,S/30.00,S/15.00,S/2.70,S/17.70,IGV incluido
+2026-01-05,09:30,ABARROTES,Productos Sonia,nuez,kg,0.5,S/30.00,S/15.00,S/2.70,S/17.70,IGV incluido
+2026-01-05,09:30,ABARROTES,Productos Sonia,castaña,kg,0.5,S/40.00,S/20.00,S/3.60,S/23.60,IGV incluido
+2026-01-05,09:30,ABARROTES,Productos Sonia,pistacho,kg,0.5,S/30.00,S/15.00,S/2.70,S/17.70,IGV incluido
+2026-01-05,09:30,ABARROTES,Productos Sonia,recuperación,und,3,S/13.50,S/40.50,S/7.29,S/47.79,IGV incluido
+2026-01-05,09:30,ABARROTES,Productos Sonia,wantán,kg,0.2,S/10.00,S/2.00,S/0.36,S/2.36,IGV incluido
+2026-01-05,09:30,ABARROTES,Productos Sonia,aceituna verde y negra,kg,2,S/44.00,S/88.00,S/15.84,S/103.84,IGV incluido
+2026-01-05,09:30,ABARROTES,Productos Sonia,canela y clavo,kg,1,S/7.00,S/7.00,S/1.26,S/8.26,IGV incluido
+2026-01-05,09:30,ABARROTES,Productos Sonia,quinua,kg,0.5,S/35.50,S/17.75,S/3.20,S/20.95,IGV incluido
+2026-01-05,10:00,ABARROTES,Otros,hojuelas e infusiones,,1,S/34.00,S/34.00,S/6.12,S/40.12,IGV incluido
+2026-01-05,10:00,ABARROTES,Otros,orégano,,1,S/4.00,S/4.00,S/0.72,S/4.72,IGV incluido
+2026-01-05,10:30,CARNES,Carne,carne,kg,6,S/199.00,S/199.00,S/35.82,S/234.82,IGV incluido
+2026-01-05,10:30,CARNES,Grupo Granja Andina,huevos,planchas,6,S/7.67,S/46.02,S/8.28,S/54.30,IGV incluido
+2026-01-05,10:30,CARNES,Grupo Granja Andina,alitas de pollo fresco,kg,1.0134,S/15.10,S/15.30,S/2.75,S/18.05,IGV incluido
+2026-01-05,10:30,CARNES,Grupo Granja Andina,pierna c/encuentro,kg,20.7030,S/209.10,S/432.92,S/77.93,S/510.84,IGV incluido
+2026-01-05,10:30,CARNES,Grupo Granja Andina,pechuga de pollo fresco,kg,20.3806,S/273.10,S/556.58,S/100.17,S/656.75,IGV incluido
+2026-01-05,11:00,CARNES,Granja Andina S.A.C,jamonada con pollo 200gr,und,10,S/4.00,S/40.00,S/7.20,S/47.20,IGV incluido
+2026-01-05,11:30,VERDURAS Y FRUTAS,Verduras,zanahoria,arrobas,2,S/50.00,S/100.00,S/18.00,S/118.00,IGV incluido
+2026-01-05,11:30,VERDURAS Y FRUTAS,Verduras,apio,kg,0.25,S/6.00,S/1.50,S/0.27,S/1.77,IGV incluido
+2026-01-05,11:30,VERDURAS Y FRUTAS,Verduras,poro,kg,0.25,S/7.00,S/1.75,S/0.32,S/2.07,IGV incluido
+2026-01-05,11:30,VERDURAS Y FRUTAS,Verduras,zapallo,kg,0.75,S/9.00,S/6.75,S/1.21,S/7.96,IGV incluido
+2026-01-05,11:30,VERDURAS Y FRUTAS,Verduras,ajo pelado,kg,0.25,S/14.00,S/3.50,S/0.63,S/4.13,IGV incluido
+2026-01-05,11:30,VERDURAS Y FRUTAS,Verduras,cebolla,arrobas,2,S/40.00,S/80.00,S/14.40,S/94.40,IGV incluido
+2026-01-05,11:30,VERDURAS Y FRUTAS,Verduras,haba,arroba,0.25,S/7.50,S/1.88,S/0.34,S/2.22,IGV incluido
+2026-01-05,11:30,VERDURAS Y FRUTAS,Verduras,haba,arroba,0.25,S/12.00,S/3.00,S/0.54,S/3.54,IGV incluido
+2026-01-05,11:30,VERDURAS Y FRUTAS,Verduras,limón,ciento,1,S/18.00,S/18.00,S/3.24,S/21.24,IGV incluido
+2026-01-05,11:30,VERDURAS Y FRUTAS,Verduras,maracuyá,kg,4,S/32.00,S/128.00,S/23.04,S/151.04,IGV incluido
+2026-01-05,11:30,VERDURAS Y FRUTAS,Verduras,veterraga,arroba,1,S/35.00,S/35.00,S/6.30,S/41.30,IGV incluido
+2026-01-05,12:00,VERDURAS Y FRUTAS,Verduras Margarita,camote,,1,S/35.00,S/35.00,S/6.30,S/41.30,IGV incluido
+2026-01-05,12:00,VERDURAS Y FRUTAS,Verduras Margarita,lechuga,,1,S/35.00,S/35.00,S/6.30,S/41.30,IGV incluido
+2026-01-05,12:00,VERDURAS Y FRUTAS,Verduras Margarita,brócoli,,1,S/35.00,S/35.00,S/6.30,S/41.30,IGV incluido
+2026-01-05,12:30,VERDURAS Y FRUTAS,Papa,papa,antes de comprar saco,S/25.00,S/25.00,S/4.50,S/29.50,IGV incluido
+2026-01-05,12:30,VERDURAS Y FRUTAS,Papa,papa,sac,S/220.00,S/220.00,S/39.60,S/259.60,IGV incluido
+2026-01-05,13:00,VERDURAS Y FRUTAS,Frutas,durazno entero,kg,3,S/26.00,S/78.00,S/14.04,S/92.04,IGV incluido
+2026-01-05,13:00,VERDURAS Y FRUTAS,Frutas,fresa,kg,3,S/21.00,S/63.00,S/11.34,S/74.34,IGV incluido
+2026-01-05,13:00,VERDURAS Y FRUTAS,Frutas,plátano,ciento,1,S/24.00,S/24.00,S/4.32,S/28.32,IGV incluido
+2026-01-05,13:00,VERDURAS Y FRUTAS,Frutas,naranja,ciento,1,S/35.00,S/35.00,S/6.30,S/41.30,IGV incluido
+2026-01-05,13:00,VERDURAS Y FRUTAS,Frutas,papaya,und,6,S/51.00,S/306.00,S/55.08,S/361.08,IGV incluido
+2026-01-05,13:00,VERDURAS Y FRUTAS,Frutas,sandía,und,1,S/23.00,S/23.00,S/4.14,S/27.14,IGV incluido
+2026-01-05,14:00,PANADERÍA,Pan,pan integral,pqt,3,S/7.00,S/21.00,S/3.78,S/24.78,IGV incluido
+2026-01-05,14:00,PANADERÍA,Pan,pan blanco,pqt,3,S/6.50,S/19.50,S/3.51,S/23.01,IGV incluido
+2026-01-05,14:00,PANADERÍA,Pan,pan valencia,und,100,S/20.00,S/2000.00,S/360.00,S/2360.00,IGV incluido
+2026-01-05,14:30,LÁCTEOS,Queso,queso "a",und,2,S/20.00,S/40.00,S/7.20,S/47.20,IGV incluido
+2026-01-05,14:30,LÁCTEOS,Queso,queso "b",und,2,S/15.00,S/30.00,S/5.40,S/35.40,IGV incluido
+2026-01-05,15:00,CEREALES,Granola,granola a granel,,1,S/10.00,S/10.00,S/1.80,S/11.80,IGV incluido
+2026-01-05,15:00,CEREALES,Granola,quinua pop a granel,,1,S/10.00,S/10.00,S/1.80,S/11.80,IGV incluido
+2026-01-05,15:30,COMIDAS,Almuerzo,personal,,1,S/72.00,S/72.00,S/12.96,S/84.96,IGV incluido
+2026-01-05,16:00,ESPECIAS,Pimienta,pimienta suelta,,1,S/2.40,S/2.40,S/0.43,S/2.83,IGV incluido
