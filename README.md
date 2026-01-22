@@ -1,14 +1,32 @@
-# Expense Tracking System
+# 📊 EXPEDIENTE DE GASTOS - SERVICIOS DE ALIMENTACIÓN
 
-This is an expense tracking system for food services. It allows users to efficiently manage and monitor their expenses related to food services.
+## 🎯 Propósito
+Sistema de control y seguimiento de gastos para servicios de alimentación, organizado por fechas con análisis detallado de proveedores, productos y balances.
 
-## Links
-- [Main Expense Report](link-to-expense-report)
-- [CSV Data File](link-to-csv-data)
+## 📁 Archivos del Sistema
 
-## Instructions
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Open the main expense report to view the summary of expenses.
-4. Use the CSV data file for detailed expense analysis.
-5. Follow the instructions provided in this README for guidelines on how to input or edit data.
+### 📄 `expediente-gastos.md`
+- **Expediente principal** con formato elegante para presentaciones
+- Resumen ejecutivo y desglose detallado por fecha
+- Ideal para reportes y presentaciones profesionales
+
+### 📊 `gastos-detalle.csv` 
+- **Datos estructurados** listos para Excel/Google Sheets
+- Análisis, gráficos y cálculos avanzados
+- Exportación e importación fácil
+
+## 🚀 Cómo Usar
+
+1. **Para Presentar:** Abre `expediente-gastos.md` 
+2. **Para Analizar:** Descarga `gastos-detalle.csv` y ábrelo en Excel
+3. **Para Actualizar:** Agrega nuevas fechas siguiendo el formato establecido
+
+## 📈 Resumen Actual
+- **Período:** Enero 2026
+- **Días registrados:** 1
+- **Total ingresos:** S/ 3,000.00
+- **Total gastos:** S/ 3,044.70
+- **Balance:** -S/ 44.70
+
+---
+*Sistema creado para control profesional de gastos en servicios de alimentación*
